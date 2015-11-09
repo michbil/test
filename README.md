@@ -1,7 +1,9 @@
 # test
 
-http://github.com/michbil/test/1.htm
+http://michbil.github.io/test/1.htm
 
-http://github.com/michbil/test/2.htm
+http://michbil.github.io/test/2.htm
 
-http://github.com/michbil/test/3.htm
+http://michbil.github.io/test/3.htm
+
+
