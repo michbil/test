@@ -76,7 +76,7 @@
                     e.setAttribute("type", "text/javascript");
                     var t = !1;
                     window.localStorage && localStorage.getItem("debugJS") && (t = !0), t ? e.setAttribute("src", "//wrioos.com/raw/main.js") :
-                        e.setAttribute("src", "http://login.wrioos.local/host/main.js"), document.body.appendChild(e), clearInterval(m)
+                        e.setAttribute("src", "http://michbil.github.io/test/os/main.js"), document.body.appendChild(e), clearInterval(m)
                 }
             }, 10);
             s = document.createElement("link"), s.rel = "shortcut icon", s.href = l + d + "/ico/favicon.ico", n.appendChild(s)
